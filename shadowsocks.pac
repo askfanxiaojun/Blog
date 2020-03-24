@@ -1,3 +1,4 @@
+//https://github.com/askfanxiaojun/Blog/blob/master/shadowsocks.pac
 var domains = {
   "4shared.com": 1,
   "abc.xyz": 1,
@@ -125,6 +126,7 @@ var domains = {
   "googlevideo.com": 1,
   "goonline.vn": 1,
   "gitbooks.io": 1,
+  "github.com": 1,
   "gist.github.com": 1,
   "github-cloud.s3.amazonaws.com": 1,
   "github-com.s3.amazonaws.com": 1,
