@@ -336,7 +336,8 @@ var domains = {
   "zing.vn": 1,
   "notion.so": 1,
   "zoho.com": 1,
-  "unsplash.com": 1
+  "unsplash.com": 1,
+  "washingtonpost.com": 1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
