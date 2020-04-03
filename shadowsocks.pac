@@ -1,4 +1,5 @@
 //https://github.com/askfanxiaojun/Blog/blob/master/shadowsocks.pac
+//修改地址`点击直接编辑`：https://github.com/askfanxiaojun/Blog/edit/master/shadowsocks.pac
 var domains = {
   "4shared.com": 1,
   "abc.xyz": 1,
