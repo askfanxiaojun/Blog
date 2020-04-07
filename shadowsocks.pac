@@ -128,6 +128,7 @@ var domains = {
   "goonline.vn": 1,
   "gitbooks.io": 1,
   "github.com": 1,
+  "github.io": 1,
   "gist.github.com": 1,
   "github-cloud.s3.amazonaws.com": 1,
   "github-com.s3.amazonaws.com": 1,
