@@ -341,7 +341,8 @@ var domains = {
   "unsplash.com": 1,
   "washingtonpost.com": 1,
   "newsbreakdaily.me": 1,
-  "newsbreakapp.com": 1
+  "newsbreakapp.com": 1,
+  "economist.com": 1
 
 };
 
