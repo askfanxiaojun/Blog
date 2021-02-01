@@ -198,6 +198,7 @@ var domains = {
   "mynet.com": 1,
   "nhacso.net": 1,
   "nytimes.com": 1,
+  "netflix.com": 1,
   "nyt.com": 1,
   "objc.io": 1,
   "olat.org": 1,
