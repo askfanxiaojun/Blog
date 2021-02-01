@@ -1,4 +1,4 @@
-//https://github.com/askfanxiaojun/Blog/blob/master/shadowsocks.pac
+//PAC源文件地址：https://raw.githubusercontent.com/askfanxiaojun/Blog/master/shadowsocks.pac
 //修改地址`点击直接编辑`：https://github.com/askfanxiaojun/Blog/edit/master/shadowsocks.pac
 var domains = {
   "4shared.com": 1,
