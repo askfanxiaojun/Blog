@@ -346,7 +346,9 @@ var domains = {
   "economist.com": 1,
   "figma.com": 1,
   "material.io": 1,
-  "airsavvi.com": 1
+  "airsavvi.com": 1,
+  "onedrive.live.com": 1,
+  "live.com": 1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
