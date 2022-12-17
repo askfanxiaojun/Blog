@@ -353,7 +353,9 @@ var domains = {
   "jable.tv": 1,
   "javmost.com": 1,
   "clickup.com": 1,
-  "dubox.com": 1
+  "dubox.com": 1,
+  "openai.com": 1,
+  "chat.openai.com": 1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
