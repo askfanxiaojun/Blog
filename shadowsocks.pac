@@ -384,7 +384,8 @@ var domains = {
   "hayo.com":1,
   "stadio.ai":1,
   "app.rundiffusion.com":1,
-  "media.io":1
+  "media.io":1,
+  "discord.com":1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
