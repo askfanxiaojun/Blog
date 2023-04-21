@@ -385,7 +385,12 @@ var domains = {
   "stadio.ai":1,
   "app.rundiffusion.com":1,
   "media.io":1,
-  "discord.com":1
+  "discord.com":1,
+  "poe.com":1,
+  "slack.com":1,
+  "prompthero.com":1,
+  "flowgpt.com":1,
+  "kickresume.com":1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
