@@ -392,7 +392,16 @@ var domains = {
   "flowgpt.com":1,
   "kickresume.com":1,
   "learnprompting.org":1,
-  "trywale.com":1
+  "trywale.com":1,
+  "forefront.ai":1,
+  "perplexity.ai":1,
+  "finchat.io":1,
+  "gpt3demo.com":1,
+  "creativefabrica.com":1,
+  "copy.ai":1,
+  "chatpdf.com":1,
+  "ai.com":1,
+  "anthropic.com":1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
