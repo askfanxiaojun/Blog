@@ -401,7 +401,8 @@ var domains = {
   "copy.ai":1,
   "chatpdf.com":1,
   "ai.com":1,
-  "anthropic.com":1
+  "anthropic.com":1,
+  "vercel.app":1
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
