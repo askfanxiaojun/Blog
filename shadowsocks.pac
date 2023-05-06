@@ -402,7 +402,12 @@ var domains = {
   "chatpdf.com":1,
   "ai.com":1,
   "anthropic.com":1,
-  "vercel.app":1
+  "vercel.app":1,
+  "arxiv.org":1,
+  "promptingguide.ai":1,
+  "cohere.ai":1,
+  "promptmetheus.com":1
+
 };
 
 //var proxy = "SOCKS5 127.0.0.1:1082; SOCKS 127.0.0.1:1082; DIRECT;";
