@@ -406,7 +406,8 @@ var domains = {
   "arxiv.org":1,
   "promptingguide.ai":1,
   "cohere.ai":1,
-  "promptmetheus.com":1
+  "promptmetheus.com":1,
+  "arc.net":1
 
 };
 
