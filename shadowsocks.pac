@@ -407,7 +407,9 @@ var domains = {
   "promptingguide.ai":1,
   "cohere.ai":1,
   "promptmetheus.com":1,
-  "arc.net":1
+  "arc.net":1,
+  "claude.ai":1,
+  "anthropic.com":1
 
 };
 
