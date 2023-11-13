@@ -409,7 +409,9 @@ var domains = {
   "promptmetheus.com":1,
   "arc.net":1,
   "claude.ai":1,
-  "anthropic.com":1
+  "anthropic.com":1,
+  "dify.ai":1
+
 
 };
 
