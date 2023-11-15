@@ -411,7 +411,18 @@ var domains = {
   "claude.ai":1,
   "anthropic.com":1,
   "dify.ai":1,
-  "onekey.so":1
+  "onekey.so":1,
+  "popai.pro":1,
+  "5sim.net":1,
+  "bento.me":1,
+  "mindos.com":1,
+  "usememora.app":1,
+  "giffgaff.com":1,
+  "gptbase.ai":1,
+  "descript.com":1,
+  "meln.ai":1,
+  "txyz.ai":1,
+  "brainglue.ai":1
 
 
 };
