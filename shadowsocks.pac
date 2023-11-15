@@ -410,7 +410,8 @@ var domains = {
   "arc.net":1,
   "claude.ai":1,
   "anthropic.com":1,
-  "dify.ai":1
+  "dify.ai":1,
+  "onekey.so":1
 
 
 };
