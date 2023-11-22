@@ -422,7 +422,9 @@ var domains = {
   "descript.com":1,
   "meln.ai":1,
   "txyz.ai":1,
-  "brainglue.ai":1
+  "brainglue.ai":1,
+  "deepwisdom.ai":1,
+  "perplexity.ai":1
 
 
 };
