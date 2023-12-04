@@ -424,7 +424,8 @@ var domains = {
   "txyz.ai":1,
   "brainglue.ai":1,
   "deepwisdom.ai":1,
-  "perplexity.ai":1
+  "perplexity.ai":1,
+  "character.ai":1
 
 
 };
