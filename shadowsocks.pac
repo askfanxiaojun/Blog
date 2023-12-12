@@ -426,7 +426,11 @@ var domains = {
   "deepwisdom.ai":1,
   "character.ai":1,
   "heygen.com":1,
-  "d-id.com":1
+  "d-id.com":1,
+  "moonhub.ai":1,
+  "meta.com":1,
+  "gptstore.ai":1,
+  "firefly.adobe.com":1
 
 
 };
