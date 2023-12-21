@@ -430,7 +430,9 @@ var domains = {
   "moonhub.ai":1,
   "meta.com":1,
   "gptstore.ai":1,
-  "firefly.adobe.com":1
+  "firefly.adobe.com":1,
+  "krea.ai":1,
+  "coze.com":1
 
 
 };
