@@ -432,7 +432,8 @@ var domains = {
   "gptstore.ai":1,
   "firefly.adobe.com":1,
   "krea.ai":1,
-  "coze.com":1
+  "coze.com":1,
+  "x.com":1
 
 
 };
